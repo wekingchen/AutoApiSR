@@ -1,4 +1,4 @@
-#iyoyo.onmicrosoft.com域自动调用api保活，加密版
+#自动调用api保活，加密版
 name: Auto Api Secret
 
 on: 
